@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\Pranay\\Desktop\\AngelHack\\ocr-reader-complete\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-vi-rVN\\values-vi-rVN.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 65,
+                    "endOffset": 116
+                },
+                "from": {
+                    "file": "C:\\Users\\Pranay\\.android\\build-cache\\d69ebdb8110ec8bdda6aef7ab02f449536f0a108\\output\\res\\values-vi-rVN\\values-vi-rVN.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 65,
+                        "endOffset": 116
+                    }
+                }
+            }
+        ]
+    }
+]

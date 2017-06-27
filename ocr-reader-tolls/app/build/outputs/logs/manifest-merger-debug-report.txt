@@ -1,0 +1,124 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Pranay\Desktop\AngelHack\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from C:\Users\Pranay\Desktop\AngelHack\ocr-reader-complete\app\src\main\AndroidManifest.xml:3:5-62
+		INJECTED from C:\Users\Pranay\Desktop\AngelHack\ocr-reader-complete\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Pranay\Desktop\AngelHack\ocr-reader-complete\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Pranay\Desktop\AngelHack\ocr-reader-complete\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Pranay\Desktop\AngelHack\ocr-reader-complete\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Pranay\Desktop\AngelHack\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Pranay\Desktop\AngelHack\ocr-reader-complete\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Pranay\Desktop\AngelHack\ocr-reader-complete\app\src\main\AndroidManifest.xml
+	android:installLocation
+		ADDED from C:\Users\Pranay\Desktop\AngelHack\ocr-reader-complete\app\src\main\AndroidManifest.xml:4:5-35
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Pranay\Desktop\AngelHack\ocr-reader-complete\app\src\main\AndroidManifest.xml:6:5-60
+	android:name
+		ADDED from C:\Users\Pranay\Desktop\AngelHack\ocr-reader-complete\app\src\main\AndroidManifest.xml:6:19-57
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Pranay\Desktop\AngelHack\ocr-reader-complete\app\src\main\AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from C:\Users\Pranay\Desktop\AngelHack\ocr-reader-complete\app\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Pranay\Desktop\AngelHack\ocr-reader-complete\app\src\main\AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from C:\Users\Pranay\Desktop\AngelHack\ocr-reader-complete\app\src\main\AndroidManifest.xml:9:22-62
+application
+ADDED from C:\Users\Pranay\Desktop\AngelHack\ocr-reader-complete\app\src\main\AndroidManifest.xml:13:5-35:19
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] C:\Users\Pranay\.android\build-cache\34fabb5886226a632c1701130eb657ffda2dfa54\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Pranay\.android\build-cache\d5ec882279128a7fbe28705ccaf26b0c6ff2db09\output\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\Pranay\.android\build-cache\1197758e996ddb18b27708e7000e92ae8e0c4787\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Pranay\.android\build-cache\9bb202b1b2e7596c49abe8090825337f9a48e902\output\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:design:24.2.0] C:\Users\Pranay\.android\build-cache\cc4f849ac57145a7eb8dff830f46888b580117bf\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\Pranay\.android\build-cache\babd724cd92f3d2d3af5a0841ef834f487ddaa4e\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\Pranay\.android\build-cache\f3e8f1bf17ed974078341d5c04aca8c5a7984041\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\Pranay\.android\build-cache\72f53f7a7e80f0d663bbe50890cc999c721a8b80\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.2.0] C:\Users\Pranay\.android\build-cache\2eba373c8e62d20874228800269d2d6fefb22fde\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\Pranay\.android\build-cache\1f6cc7d67b3fe29830ba398cac63b4400eb9b7f6\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\Pranay\.android\build-cache\00354564079645cd867855ab5acff13b0747b528\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\Pranay\.android\build-cache\6476fd2875894f50c73dc09e81dfcf315c68df06\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\Pranay\.android\build-cache\9fe2e666e81a1fab9753da7c7fc8949d9174138b\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] C:\Users\Pranay\.android\build-cache\af005f316fab1a78f02ce17303e212c9ad21bdda\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\Pranay\.android\build-cache\4abf6743c9d8ddda242f317f5ba4055eada6a115\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\Pranay\Desktop\AngelHack\ocr-reader-complete\app\src\main\AndroidManifest.xml:18:9-37
+	android:supportsRtl
+		ADDED from C:\Users\Pranay\Desktop\AngelHack\ocr-reader-complete\app\src\main\AndroidManifest.xml:19:9-37
+	android:hardwareAccelerated
+		ADDED from C:\Users\Pranay\Desktop\AngelHack\ocr-reader-complete\app\src\main\AndroidManifest.xml:16:9-43
+	android:fullBackupContent
+		ADDED from C:\Users\Pranay\Desktop\AngelHack\ocr-reader-complete\app\src\main\AndroidManifest.xml:15:9-42
+	android:allowBackup
+		ADDED from C:\Users\Pranay\Desktop\AngelHack\ocr-reader-complete\app\src\main\AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from C:\Users\Pranay\Desktop\AngelHack\ocr-reader-complete\app\src\main\AndroidManifest.xml:17:9-38
+	android:theme
+		ADDED from C:\Users\Pranay\Desktop\AngelHack\ocr-reader-complete\app\src\main\AndroidManifest.xml:20:9-47
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\Pranay\Desktop\AngelHack\ocr-reader-complete\app\src\main\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Pranay\.android\build-cache\9bb202b1b2e7596c49abe8090825337f9a48e902\output\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from C:\Users\Pranay\Desktop\AngelHack\ocr-reader-complete\app\src\main\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from C:\Users\Pranay\Desktop\AngelHack\ocr-reader-complete\app\src\main\AndroidManifest.xml:22:13-58
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from C:\Users\Pranay\Desktop\AngelHack\ocr-reader-complete\app\src\main\AndroidManifest.xml:24:9-26:35
+	android:value
+		ADDED from C:\Users\Pranay\Desktop\AngelHack\ocr-reader-complete\app\src\main\AndroidManifest.xml:26:13-32
+	android:name
+		ADDED from C:\Users\Pranay\Desktop\AngelHack\ocr-reader-complete\app\src\main\AndroidManifest.xml:25:13-70
+activity#com.google.android.gms.samples.vision.ocrreader.OcrCaptureActivity
+ADDED from C:\Users\Pranay\Desktop\AngelHack\ocr-reader-complete\app\src\main\AndroidManifest.xml:28:9-34:20
+	android:label
+		ADDED from C:\Users\Pranay\Desktop\AngelHack\ocr-reader-complete\app\src\main\AndroidManifest.xml:29:13-38
+	android:name
+		ADDED from C:\Users\Pranay\Desktop\AngelHack\ocr-reader-complete\app\src\main\AndroidManifest.xml:28:19-100
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Pranay\Desktop\AngelHack\ocr-reader-complete\app\src\main\AndroidManifest.xml:30:13-33:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Pranay\Desktop\AngelHack\ocr-reader-complete\app\src\main\AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from C:\Users\Pranay\Desktop\AngelHack\ocr-reader-complete\app\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Pranay\Desktop\AngelHack\ocr-reader-complete\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from C:\Users\Pranay\Desktop\AngelHack\ocr-reader-complete\app\src\main\AndroidManifest.xml:32:27-74
+uses-sdk
+INJECTED from C:\Users\Pranay\Desktop\AngelHack\ocr-reader-complete\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] C:\Users\Pranay\.android\build-cache\34fabb5886226a632c1701130eb657ffda2dfa54\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Pranay\.android\build-cache\d5ec882279128a7fbe28705ccaf26b0c6ff2db09\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\Pranay\.android\build-cache\1197758e996ddb18b27708e7000e92ae8e0c4787\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Pranay\.android\build-cache\9bb202b1b2e7596c49abe8090825337f9a48e902\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:design:24.2.0] C:\Users\Pranay\.android\build-cache\cc4f849ac57145a7eb8dff830f46888b580117bf\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\Pranay\.android\build-cache\babd724cd92f3d2d3af5a0841ef834f487ddaa4e\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\Pranay\.android\build-cache\f3e8f1bf17ed974078341d5c04aca8c5a7984041\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\Pranay\.android\build-cache\72f53f7a7e80f0d663bbe50890cc999c721a8b80\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.2.0] C:\Users\Pranay\.android\build-cache\2eba373c8e62d20874228800269d2d6fefb22fde\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\Pranay\.android\build-cache\1f6cc7d67b3fe29830ba398cac63b4400eb9b7f6\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\Pranay\.android\build-cache\00354564079645cd867855ab5acff13b0747b528\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\Pranay\.android\build-cache\6476fd2875894f50c73dc09e81dfcf315c68df06\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:recyclerview-v7:24.2.0] C:\Users\Pranay\.android\build-cache\a8ddd059fb34ccd68cf94e8458fafc4ef66033f7\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\Pranay\.android\build-cache\9fe2e666e81a1fab9753da7c7fc8949d9174138b\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.0] C:\Users\Pranay\.android\build-cache\af005f316fab1a78f02ce17303e212c9ad21bdda\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\Pranay\.android\build-cache\4abf6743c9d8ddda242f317f5ba4055eada6a115\output\AndroidManifest.xml:7:5-43
+MERGED from [net.danlew:android.joda:2.9.9] C:\Users\Pranay\.android\build-cache\d69ebdb8110ec8bdda6aef7ab02f449536f0a108\output\AndroidManifest.xml:6:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.0] C:\Users\Pranay\.android\build-cache\babd724cd92f3d2d3af5a0841ef834f487ddaa4e\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Pranay\Desktop\AngelHack\ocr-reader-complete\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Pranay\Desktop\AngelHack\ocr-reader-complete\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Pranay\Desktop\AngelHack\ocr-reader-complete\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Pranay\Desktop\AngelHack\ocr-reader-complete\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Pranay\.android\build-cache\d5ec882279128a7fbe28705ccaf26b0c6ff2db09\output\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Pranay\.android\build-cache\d5ec882279128a7fbe28705ccaf26b0c6ff2db09\output\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Pranay\.android\build-cache\d5ec882279128a7fbe28705ccaf26b0c6ff2db09\output\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Pranay\.android\build-cache\d5ec882279128a7fbe28705ccaf26b0c6ff2db09\output\AndroidManifest.xml:20:19-85

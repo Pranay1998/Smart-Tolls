@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\Pranay\\Desktop\\AngelHack\\ocr-reader-complete\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rUS\\values-en-rUS.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 66,
+                    "endOffset": 117
+                },
+                "from": {
+                    "file": "C:\\Users\\Pranay\\.android\\build-cache\\d69ebdb8110ec8bdda6aef7ab02f449536f0a108\\output\\res\\values-en-rUS\\values-en-rUS.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 66,
+                        "endOffset": 117
+                    }
+                }
+            }
+        ]
+    }
+]
